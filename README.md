@@ -8,7 +8,7 @@ This is a great alternative to heavy libraries like Masonry or Isotope.
 
 - Live site [https://old.xn--b1afkhhhz2d6c.xn--p1ai/](https://old.xn--b1afkhhhz2d6c.xn--p1ai/) - a live demo with (almost) infinite scrolling
 
-- Github Pages []() - A simple demo with infinite scrolling
+- Github Pages [https://mnnoee.github.io/lightweight-gallery/](https://mnnoee.github.io/lightweight-gallery/) - A simple demo with infinite scrolling
 
 ---
 
@@ -24,7 +24,7 @@ This is a great alternative to heavy libraries like Masonry or Isotope.
 
 - Реальный сайт [https://old.xn--b1afkhhhz2d6c.xn--p1ai/](https://old.xn--b1afkhhhz2d6c.xn--p1ai/) - живая демонстрация с бесконечным скроллом (почти)
 
-- Github Pages []() - Лёгкая демонстрация с бесконечным скроллом
+- Github Pages [https://mnnoee.github.io/lightweight-gallery/](https://mnnoee.github.io/lightweight-gallery/) - Лёгкая демонстрация с бесконечным скроллом
 
 ## How to use / Как использовать
 
